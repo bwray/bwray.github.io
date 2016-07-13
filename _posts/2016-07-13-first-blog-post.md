@@ -15,5 +15,5 @@ food, and travel. I'll be leaving to attend [ant course](https://www.calacademy.
  at [Gorongosa National Park](http://www.gorongosa.org/) in Mozambique in a little
 over a week, so that will probably be the focus of the first few posts.
 
-For now the site is powered by [Jekyll](http://jekyllrb.com)and I can use Markdown to author 
+For now the site is powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author 
 my posts. 
