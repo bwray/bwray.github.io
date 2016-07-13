@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I finally got around to building a personal website."
-date: 2014-04-30
+date: 2016-07-13
 ---
 
 Finally, after two years of pretty intense computer science studies, I'm going to the trouble of making a 
