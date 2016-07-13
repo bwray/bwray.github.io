@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I finally get around to building a personal website."
+title: "I finally got around to building a personal website."
 date: 2014-04-30
 ---
 
