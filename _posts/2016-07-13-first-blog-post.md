@@ -5,7 +5,7 @@ date: 2016-07-13
 ---
 
 Finally, after two years of pretty intense computer science studies, I'm going to the trouble of making a 
-personal website. The next yearof my CS master's program, at the end of which I will graduate, 
+personal website. The next year of my CS master's program, at the end of which I will graduate, 
 will be heavy on data science and programming. I feel that having a place to deposit my projects will be 
 useful to me personally to review, but also as a way to demonstrate to the great big world what I'm 
 capable of. I'll use this blog as a place to write about software engineering and data science, 
