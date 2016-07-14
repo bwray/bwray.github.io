@@ -4,7 +4,7 @@ title: "I finally got around to building a personal website."
 date: 2016-07-13
 ---
 
-Finally, after two years of pretty intense computer science studies, I'm going to the trouble of making a 
+<p style = "font-family: helvetica; font-size: 100%;"> Finally, after two years of pretty intense computer science studies, I'm going to the trouble of making a 
 personal website. The next year of my CS master's program, at the end of which I will graduate, 
 will be heavy on data science and programming. I feel that having a place to deposit my projects will be 
 useful both for me personally to review, and as a way to demonstrate to the great big world what I'm 
@@ -13,6 +13,7 @@ biking in the city, museums, photography, food, and travel. I'll be leaving to a
 at the [EO Wilson Laboratory](http://www.gorongosa.org/our-story/science/information-scientists/wilson-lab)
 at [Gorongosa National Park](http://www.gorongosa.org/) in Mozambique in a little
 over a week, so that will probably be the focus of the first few posts.
-
+<br/>
 For now the site is powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author 
 my posts. 
+</p>
