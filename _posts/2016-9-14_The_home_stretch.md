@@ -10,7 +10,7 @@ degree. Wait, I’m studying CS, I should’ve broken that down the other way. O
 academic year, no, three short quarters, NO, six tiny classes! Breaking it down like that 
 makes it seem like a cake walk! The best part is that all I have left are electives. 
 Wait, you mean I get to actually pick which classes I take?!?! Whaaaat?!?!
-<br/>
+<br/><br/>
 This quarter I’m enrolled in “Fundamentals of Data Science”* and “Optimized C++”. It’s an 
 interesting mix of courses with a wide scope. With the data science class we will be 
 getting comfortable with the super-trendy topic of “big data”. Of course, I’m excited 
@@ -20,7 +20,7 @@ of it anyway. Then, in the C++ class we’ll literally be discussing bytes and b
 individual clock cycles as we try to wring all of the inefficiencies out of our programs. 
 Well, not all of them, of course, but enough to feel superior to all of those lowly Python 
 programmers (jk, I love Python).
-<br/>
+<br/><br/>
 Over the summer I decided to make data science the main focus of the electives I pick. OK, 
 so, yes, a part of me was convinced to focus on data science because of the gobs of money 
 that the world is throwing at data scientists right now. But, ignoring the philosophical 
@@ -32,7 +32,7 @@ two about how to deal with huge volumes of sequence data. The data science class
 now seems pretty chill. One thing I’ve learned already is that I already read a lot about 
 data science, just for fun. Well, maybe not “fun”, but, you know, internet fun (i.e. 
 procrastination). I spend a lot of time being cool and reading data science blogs, OK? 
-<br/>
+<br/><br/>
 Then, there’s the C++ class. I’m maybe starting to regret having enrolled in this class. 
 I’m really only taking it because I think it’ll be good for me, not unlike eating 
 vegetables. Except I actually do enjoy eating vegetables. My new favorite food is roasted 
@@ -44,7 +44,7 @@ ALLPATHS and the JVM were all at least partially written in C++. Ug, but then th
 little anecdote from last night’s lecture: apparently C++ is such a complicated language 
 that Bjarne Stroustrup, the super nerd who developed the language, puts himself at a solid 
 6 out of 10 in terms of skill in actually programming with C++.
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 Special thanks to the following links for helping me procrastinate over the last week:
@@ -52,13 +52,13 @@ Special thanks to the following links for helping me procrastinate over the last
 <a href="http://www.locusmag.com/Perspectives/2016/09/cory-doctorowthe-privacy-wars-are-about-to-get-a-whole-lot-worse/">
 The Privacy Wars Are About To Get A Whole Lot Worse (a more Orwellian look at “big data”)
 <br/>
-<a href="http://www.telegraph.co.uk/lifestyle/wellbeing/diet/10634081/John-Yudkin-the-man-who-tried-to-warn-us-about-sugar.html">
+<a href="http://www.telegraph.co.uk/lifestyle/wellbeing/diet/10634081/John-Yudkin-the-man-who-tried-to-warn-us-about-sugar.html/">
 John Yudkin: the man who tried to warn us about sugar (I watched too much of the documentary embedded in the article, “Sugar: The Bitter Truth”.)
-<br/>
+<br/><br/>
 New music? Yea, I got the new Angel Olsen album, MY WOMAN, and I really like how lush it 
 can be! I’m gonna go see her play next week at Thalia Hall. I think it’ll be the first 
 concert I’ve gone to by myself in like ten years. 
-<br/><br/>
+<br/><br/><br/>
 
 *Technically, I’m not even sure that I am allowed to be enrolled in my data science course. 
 There was a stats prerequisite that I hadn’t fulfilled, so I taught myself intro stats over 
