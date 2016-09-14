@@ -65,5 +65,5 @@ There was a stats prerequisite that I hadn’t fulfilled, so I taught myself int
 the summer. Yes, I do indeed know how to live life to its fullest. I was literally camping 
 with friends and family, on my birthday, and reviewing statistical inference in a camping 
 chair. Anyway, I took the test that DePaul offers to try and get out of the prereq, and 
-I’m still awaiting the results. It should be fine. I hope. 
+I’m still awaiting the results. It should be fine. 
 </p>
