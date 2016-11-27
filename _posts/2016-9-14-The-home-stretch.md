@@ -50,10 +50,10 @@ that Bjarne Stroustrup, the super nerd who developed the language, puts himself 
 Special thanks to the following links for helping me procrastinate over the last week:
 <br/>
 <a href="http://www.locusmag.com/Perspectives/2016/09/cory-doctorowthe-privacy-wars-are-about-to-get-a-whole-lot-worse/">
-The Privacy Wars Are About To Get A Whole Lot Worse (a more Orwellian look at “big data”)
+The Privacy Wars Are About To Get A Whole Lot Worse (a more Orwellian look at “big data”)</a>
 <br/>
 <a href="http://www.telegraph.co.uk/lifestyle/wellbeing/diet/10634081/John-Yudkin-the-man-who-tried-to-warn-us-about-sugar.html/">
-John Yudkin: the man who tried to warn us about sugar (I watched too much of the documentary embedded in the article, “Sugar: The Bitter Truth”.)
+John Yudkin: the man who tried to warn us about sugar</a> (I watched too much of the documentary embedded in the article, “Sugar: The Bitter Truth”.)
 <br/><br/>
 New music? Yea, I got the new Angel Olsen album, MY WOMAN, and I really like how lush it 
 can be! I’m gonna go see her play next week at Thalia Hall. I think it’ll be the first 
