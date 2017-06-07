@@ -13,4 +13,5 @@ To do:
   - replace footer text links with images
   - replace blog with a news feed
   - implement system of post tags
+  - make a nice, pretty home page. Put together a banner for the top. 
   
