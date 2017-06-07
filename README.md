@@ -3,7 +3,7 @@ This is the code for my personal website. I'm following the guide posted here:
 http://jmcglone.com/guides/github-pages/
 
 To do:
-  - insert, and properly format, profile image on about me page
+  - (done) insert, and properly format, profile image on about me page
   - purchase domain name
   - create new blog post. Possible topics:
       - hate crimes viz
